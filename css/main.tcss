@@ -1,0 +1,6 @@
+Screen {
+    color:aquamarine;    
+}
+Static {
+    content-align: center middle;
+}
